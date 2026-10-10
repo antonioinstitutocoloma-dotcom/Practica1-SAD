@@ -1,0 +1,4 @@
+dn: uid=asuarez,ou=people,dc=securecorp,dc=local
+changetype: modify
+replace: mail
+mail: asuarez@securecorp.local
